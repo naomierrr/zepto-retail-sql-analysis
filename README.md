@@ -1,6 +1,23 @@
 # zepto-retail-sql-analysis
 End-to-end SQL analysis of Zepto retail data using PostgreSQL. Features advanced data cleaning, inventory segmentation, and revenue share modeling using CTEs and Window Functions.
 
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Analysis](https://img.shields.io/badge/Analysis-EDA%20%26%20Insights-orange)
+
+---
+
+## 🛠️ Tech Stack & Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Data Querying** | `CTEs`, `Window Functions`, `Aggregate Functions`, `Joins` |
+| **Data Cleaning** | `Data Normalization`, `Sanitization`, `Type Casting` |
+| **Reporting** | `Executive Summaries`, `KPI Development`, `Revenue Modeling` |
+
+---
+
 ### 📌 Project Overview
 This project performs a comprehensive analysis of Zepto's product catalog (1,700+ SKUs) to identify revenue growth opportunities and optimize inventory management. Using PostgreSQL, I transformed raw retail data into actionable business insights, focusing on pricing strategies, stock availability, and logistical segmentation.
 
