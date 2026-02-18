@@ -175,10 +175,3 @@ This analysis demonstrates:
 - Strategic business thinking beyond basic aggregation  
 - Revenue optimization modeling for real-world retail scenarios  
 
----
-
-<div align="center">
-
-⭐ If you found this project valuable, consider giving it a star!
-
-</div>
